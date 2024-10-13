@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Doctor, Université d'Angers, Angers, France.
+- *2016.09 - 2020.07*, Doctor, Université d'Angers, Angers, France.
 - *2014.09 - 2016.06*, Master (Ingénieur), Université de Technologie de Belfort-Montbéliard, Belfort, France.
 - *2011.09 - 2015.06*, Undergraduate, Northwestern Polytechnical University, Xi'an, China.
 
