@@ -5,9 +5,8 @@
 - *2011.09 - 2015.06*, Undergraduate, Northwestern Polytechnical University, Xi'an, China.
 
 # 💻 Working Experience
-- *2022.10 - now*,     Assistant Professor, Hohai University (HHU), Nanjing.
+- *2021.10 - now*,     Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing.
 - *2021.11 - 2022.10*, Assistant Researcher, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen.
-- *2020.11 - 2022.10*, Joint Post-Doc, University of Science and Technology of China (USTC) and The Chinese University of Hong Kong，Shenzhen (CUHK-SZ).
 
 <!--
 # 💬 Invited Talks
