@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jintong's Academic Page"
-description              : "Assistant Professor in  Hohai Unversity."
-repository               : "Ren-Jintong/Ren-Jintong.github.io"
+title                    : "Zequn's Academic Page"
+description              : "Assistant Professor in  BUPT."
+repository               : "Zequn-Wei/Zequn-Wei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jintong Ren"
+  name             : "Zequn Wei"
   avatar           : "images/RelaxImp.jpg"
-  bio              : "Hohai University"
-  location         : "Nanjing, China"
+  bio              : "Beijing University of Posts and Telecommunications"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sB5IWtMAAAAJ&hl=en-US"
-  email            : "jintong.ren@hhu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Jintong-Ren"
+  googlescholar    : "https://scholar.google.com/citations?user=DwQvz1YAAAAJ&hl=zh-CN"
+  email            : "zequn.wei@bupt.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :

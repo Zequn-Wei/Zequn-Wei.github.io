@@ -1,4 +1,4 @@
-I work at [BUPT University](https://www.hhu.edu.cn/) as an assistant professor now in Beijing. 
+I work at [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) as an assistant professor now in Beijing. 
 
 I graduated from Northwestern Polytechnical University with a bachelor's degree and a master's degree, and a Ph.D in Computer Science from Université d'Angers, France, supervised by [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/). 
 
