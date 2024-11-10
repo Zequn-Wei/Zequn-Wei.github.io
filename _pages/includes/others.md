@@ -1,12 +1,11 @@
 
 # 📖 Educations
-- *2016.09 - 2020.07*, Doctor, Université d'Angers, Angers, France.
-- *2014.09 - 2016.06*, Master (Ingénieur), Université de Technologie de Belfort-Montbéliard, Belfort, France.
-- *2011.09 - 2015.06*, Undergraduate, Northwestern Polytechnical University, Xi'an, China.
+- *2018 - 2021*, Doctor, Université d'Angers, Angers, France.
+- *2015 - 2018*, Master, Northwestern Polytechnical University, Xi'an, China.
+- *2011 - 2015*, Undergraduate, Northwestern Polytechnical University, Xi'an, China.
 
 # 💻 Working Experience
-- *2021.10 - now*,     Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing.
-- *2021.11 - 2022.10*, Assistant Researcher, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), Shenzhen.
+- *2021 - now*,     Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing.
 
 <!--
 # 💬 Invited Talks
