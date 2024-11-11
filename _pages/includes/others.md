@@ -5,7 +5,7 @@
 - Undergraduate, Northwestern Polytechnical University (NPU), Xi'an, China.
 
 # 💻 Working Experience
-- *2021 - now*, Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing.
+- Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing, *2021 - now*.
 
 <!--
 # 💬 Invited Talks
