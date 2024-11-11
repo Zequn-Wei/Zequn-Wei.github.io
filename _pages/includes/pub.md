@@ -72,8 +72,17 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 **Journal Papers**
 
-- **Zequn Wei**, Jianing Yu, Jintong Ren, Wei Duan and Dexin Wu. Progressive Simulated Annealing Algorithm for the Pipeline Allocation Problem of Protocol Independent Switch Architecture Chips, 2024 6th International Conference on Data-driven Optimization of Complex Systems [(DOCS)](https://ieeexplore.ieee.org/abstract/document/10704552), Hangzhou, China, 2024, pp. 243-249.
 - **Zequn Wei**, Jin-Kao Hao, Jintong Ren, Qinghua Wu, Eduardo Rodriguez-Tello. An intensification-driven search algorithm for the family traveling salesman problem with incompatibility constraints. [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705124010128), 2024, 302: 112378.
 - **Zequn Wei**, Jin-Kao Hao, Jintong Ren, Fred Glover. Responsive strategic oscillation for solving the disjunctively constrained knapsack problem, [European Journal of Operational Research](https://www.sciencedirect.com/science/article/abs/pii/S0377221723001248), 2023,309(3): 993-1009.  
+- **Zequn Wei**, Jin-Kao Hao. Iterated hyperplane search for the budgeted maximum coverage problem. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417422020966), 2023, 214: 119078.
+- **Zequn Wei**, Jin-Kao Hao. A threshold search based memetic algorithm for the disjunctively constrained knapsack problem. [Computers & Operations Research](https://www.sciencedirect.com/science/article/pii/S030505482100201X), 2021, 136: 105447.
+- **Zequn Wei**, Jin-Kao Hao. Multistart solution-based tabu search for the Set-Union Snapsack Problem. [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494621001836), 2021, 105: 107260.
+Liwen Li, **Zequn Wei**, Jin-Kao Hao, Kun He. Probability learning based tabu search for the budgeted maximum coverage problem[J]. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417421007399), 2021: 115310.
+- **Zequn Wei**, Jin-Kao Hao. Kernel based tabu search for the Set-union Knapsack Problem. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417420306199), 2021, 165: 113802.
+- **Zequn Wei**, Jin-Kao Hao. Iterated two-phase local search for the Set-Union Knapsack Problem[J]. [Future Generation Computer Systems](https://www.sciencedirect.com/science/article/pii/S0167739X19306569), 2019, 101: 1005-1017. 
 
 **Papers in Conference Proceedings**
+
+- **Zequn Wei**, Jianing Yu, Jintong Ren, Wei Duan and Dexin Wu. Progressive Simulated Annealing Algorithm for the Pipeline Allocation Problem of Protocol Independent Switch Architecture Chips. 2024 6th International Conference on Data-driven Optimization of Complex Systems [(DOCS-2024)](https://ieeexplore.ieee.org/abstract/document/10704552), Hangzhou, China, 2024, pp. 243-249.
+Yiting Wang, Yawen Li, **Zequn Wei***, Junqi Li. Hybrid Evolutionary Algorithm for the Overlap Constrained Resource Allocation Problem in Wireless Networks. The 38th International Conference on Advanced Information Networking and Applications [(AINA-2024)](https://link.springer.com/book/10.1007/978-3-031-57870-0), Kitakyushu, Japan, 2024, pp. 245-256.
+Yushan Yang, Mengling Yan, Zeqing Liu, **Zequn Wei***. Opposition-based Memetic Algorithm for the Shared Weapon Target Assignment Problem. 2022 China Automation Congress [(CAC-2022)](https://ieeexplore.ieee.org/document/10056059), Xiamen, China, 2022, pp. 1951-1956.
