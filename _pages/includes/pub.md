@@ -70,6 +70,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 -->
 
+**Journal Papers**
+
 - **Zequn Wei**, Jianing Yu, Jintong Ren, Wei Duan and Dexin Wu. Progressive Simulated Annealing Algorithm for the Pipeline Allocation Problem of Protocol Independent Switch Architecture Chips, 2024 6th International Conference on Data-driven Optimization of Complex Systems [(DOCS)](https://ieeexplore.ieee.org/abstract/document/10704552), Hangzhou, China, 2024, pp. 243-249.
 - **Zequn Wei**, Jin-Kao Hao, Jintong Ren, Qinghua Wu, Eduardo Rodriguez-Tello. An intensification-driven search algorithm for the family traveling salesman problem with incompatibility constraints. [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705124010128), 2024, 302: 112378.
 - **Zequn Wei**, Jin-Kao Hao, Jintong Ren, Fred Glover. Responsive strategic oscillation for solving the disjunctively constrained knapsack problem, [European Journal of Operational Research](https://www.sciencedirect.com/science/article/abs/pii/S0377221723001248), 2023,309(3): 993-1009.  

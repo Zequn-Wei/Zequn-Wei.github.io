@@ -1,11 +1,11 @@
 
 # 📖 Educations
-- *2018 - 2021*, Doctor, Université d'Angers, Angers, France.
-- *2015 - 2018*, Master, Northwestern Polytechnical University, Xi'an, China.
-- *2011 - 2015*, Undergraduate, Northwestern Polytechnical University, Xi'an, China.
+- Doctor, Université d'Angers (UA), Angers, France.
+- Master, Northwestern Polytechnical University (NPU), Xi'an, China.
+- Undergraduate, Northwestern Polytechnical University (NPU), Xi'an, China.
 
 # 💻 Working Experience
-- *2021 - now*,     Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing.
+- *2021 - now*, Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing.
 
 <!--
 # 💬 Invited Talks
