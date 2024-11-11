@@ -77,7 +77,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - [3] **Zequn Wei**, Jin-Kao Hao. Iterated hyperplane search for the budgeted maximum coverage problem. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417422020966), 2023, 214: 119078.
 - [4] **Zequn Wei**, Jin-Kao Hao. A threshold search based memetic algorithm for the disjunctively constrained knapsack problem. [Computers & Operations Research](https://www.sciencedirect.com/science/article/pii/S030505482100201X), 2021, 136: 105447.
 - [5] **Zequn Wei**, Jin-Kao Hao. Multistart solution-based tabu search for the Set-Union Snapsack Problem. [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494621001836), 2021, 105: 107260.
-- [6] Liwen Li, **Zequn Wei**, Jin-Kao Hao, Kun He. Probability learning based tabu search for the budgeted maximum coverage problem[J]. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417421007399), 2021: 115310.
+- [6] Liwen Li, **Zequn Wei**, Jin-Kao Hao, Kun He. Probability learning based tabu search for the budgeted maximum coverage problem. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417421007399), 2021: 115310.
 - [7] **Zequn Wei**, Jin-Kao Hao. Kernel based tabu search for the Set-union Knapsack Problem. [Expert Systems with Applications](https://www.sciencedirect.com/science/article/pii/S0957417420306199), 2021, 165: 113802.
 - [8] **Zequn Wei**, Jin-Kao Hao. Iterated two-phase local search for the Set-Union Knapsack Problem[J]. [Future Generation Computer Systems](https://www.sciencedirect.com/science/article/pii/S0167739X19306569), 2019, 101: 1005-1017. 
 
