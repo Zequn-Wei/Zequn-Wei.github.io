@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  #- title: "Honors and Awards"
+  - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
- #- title: "Educations"
+  - title: "Educations"
     url: "/#-educations"
 
- # - title: "Working Experince"
-  #  url: "/#-Work"
+  - title: "Working Experince"
+    url: "/#-Work"
 
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
