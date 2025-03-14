@@ -1,6 +1,6 @@
 I work at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) as an associate professor now in Beijing. 
 
-I graduated from [Northwestern Polytechnical University (NWPU)](https://en.nwpu.edu.cn/) with a bachelor's degree and a master's degree, and a Ph.D in Computer Science from [Université d'Angers(UA)](https://www.univ-angers.fr/en/index.html), France, supervised by Prof. [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/). 
+I graduated from [Northwestern Polytechnical University (NPU)](https://en.nwpu.edu.cn/) with a bachelor's degree and a master's degree, and a Ph.D in Computer Science from [Université d'Angers(UA)](https://www.univ-angers.fr/en/index.html), France, supervised by Prof. [Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/). 
 
 My research interests include combinatorial optimization, heuristics, and metaheuristics, which are mainly applied to decision-making problems such as knapsack problems, routing problems, and scheduling problems. The main published papers appear in EJOR, COR, ESWA and KBS, etc. 
 
