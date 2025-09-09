@@ -85,7 +85,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 **Papers in Conference Proceedings**
 
-- [1] Yawen Li, Xin Lyu, **Zequn Wei***, Guanhua Ye, Jintong Ren. A Memetic Algorithm for the Capacity-Constrained Community Detection Problem in Social Networks. 2025 IEEE Congress on Evolutionary Computation [(CEC)](https://ieeexplore.ieee.org/abstract/document/11043121). Hangzhou, China, 2025, pp. 1-4.
+- [1] Yawen Li, Xin Lyu, **Zequn Wei***, Guanhua Ye, Jintong Ren. A Memetic Algorithm for the Capacity-Constrained Community Detection Problem in Social Networks. 2025 IEEE Congress on Evolutionary Computation [(CEC-2025)](https://ieeexplore.ieee.org/abstract/document/11043121). Hangzhou, China, 2025, pp. 1-4.
 - [2] **Zequn Wei**, Jianing Yu, Jintong Ren, Wei Duan and Dexin Wu. Progressive Simulated Annealing Algorithm for the Pipeline Allocation Problem of Protocol Independent Switch Architecture Chips. 2024 6th International Conference on Data-driven Optimization of Complex Systems [(DOCS-2024)](https://ieeexplore.ieee.org/abstract/document/10704552), Hangzhou, China, 2024, pp. 243-249.
 - [3] Yiting Wang, Yawen Li, **Zequn Wei***, Junqi Li. Hybrid Evolutionary Algorithm for the Overlap Constrained Resource Allocation Problem in Wireless Networks. The 38th International Conference on Advanced Information Networking and Applications [(AINA-2024)](https://link.springer.com/book/10.1007/978-3-031-57870-0), Kitakyushu, Japan, 2024, pp. 245-256.
 - [4] Yushan Yang, Mengling Yan, Zeqing Liu, **Zequn Wei***. Opposition-based Memetic Algorithm for the Shared Weapon Target Assignment Problem. 2022 China Automation Congress [(CAC-2022)](https://ieeexplore.ieee.org/document/10056059), Xiamen, China, 2022, pp. 1951-1956.
