@@ -5,7 +5,9 @@
 - Undergraduate, Northwestern Polytechnical University (NPU), Xi'an, China.
 
 # 💻 Working Experience
-- Associate Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing, China, *2025 - now*.
+- Associate Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing, China, *2024 - now*.
+- Visiting Scholar, Queen Mary University of London (QMUL), London, UK, *2025 - 2026*.
+- Visiting Scholar, Tsinghua University (THU), Beijing, China, *2024 - 2025*.
 - Assistant Professor, Beijing University of Posts and Telecommunications (BUPT), Beijing, China, *2021 - 2024*.
 
 <!--
